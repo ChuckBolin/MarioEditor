@@ -1,0 +1,72 @@
+//Mario PAG
+//assets\data\level3.dat Created by the gc10_editor
+
+//miscellaneous game variables
+back_color, 0, 200, 200
+world, 0, 0, 10107, 768
+
+//game object data
+ground, 0, 624
+ground, 0, 576
+ground, 48, 624
+ground, 96, 624
+ground, 144, 624
+ground, 192, 624
+ground, 240, 624
+ground, 288, 624
+ground, 336, 624
+ground, 384, 624
+ground, 432, 624
+ground, 480, 624
+ground, 528, 624
+ground, 576, 624
+ground, 624, 624
+ground, 672, 624
+ground, 720, 624
+ground, 48, 576
+ground, 96, 576
+ground, 144, 576
+ground, 192, 576
+ground, 240, 576
+ground, 288, 576
+ground, 336, 576
+ground, 384, 576
+ground, 480, 576
+ground, 432, 576
+ground, 528, 576
+ground, 576, 576
+ground, 624, 576
+ground, 672, 576
+ground, 720, 576
+ground, 768, 624
+ground, 816, 624
+ground, 864, 624
+ground, 912, 624
+ground, 960, 624
+ground, 1008, 624
+ground, 1056, 624
+ground, 1104, 624
+ground, 1152, 624
+ground, 1200, 624
+ground, 1200, 576
+ground, 1152, 576
+ground, 1104, 576
+ground, 1056, 576
+ground, 1008, 576
+ground, 960, 576
+ground, 912, 576
+ground, 864, 576
+ground, 816, 576
+ground, 768, 576
+big_hill, 0, 480
+small_hill, 720, 534
+bush, 665, 539
+bush, 570, 539
+question_object, 720, 288
+brick, 960, 288
+brick, 1056, 288
+brick, 1152, 288
+question_object, 1104, 288
+question_object, 1008, 288
+question_object, 1056, 96
+bush, 1140, 539

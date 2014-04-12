@@ -1,0 +1,35 @@
+//editor.dat - Written by Chuck Bolin, "Mario PAG Editor", January 2009
+//Purpose: defines assets for editor
+
+//Graphic file definition
+//graphicfile, file ID, description
+//*********************************
+texture, 100, editor_intro.png, introduction screen 
+texture, 101, editor_menu.png,   Menu text
+texture, 102, editor_credits.png, Credit sprites
+texture, 103, gui.png, GUI for Edit screen
+texture, 104, PAG.png, PAG Graphic
+
+
+//Sprite definition
+//sprite, sprite ID, file ID, left, top, width, height, scale, angle, alpha, max frames, starting frames, time, description
+//*************************************************************************************************************************
+sprite, 1000, 100, 6, 45, 38, 38, 1, 0, 255, 6, 0, .1, Animated effects
+sprite, 1001, 100, 0, 0, 512, 42, 1, 0, 255, 1, 0, 0, Introduction Title
+sprite, 1002, 101, 0, 0, 285, 68, 1, 0, 255, 1, 0, 0, Menu - Edit Unselected
+sprite, 1003, 101, 0, 74, 366, 68, 1, 0, 255, 1, 0, 0, Menu - Exit Unselected
+sprite, 1004, 101, 0, 153, 285, 68, 1, 0, 255, 1, 0, 0, Menu - Edit Selected
+sprite, 1005, 101, 0, 229, 366, 68, 1, 0, 255, 1, 0, 0, Menu - Exit Selected
+sprite, 1006, 102, 0, 310, 206, 68, 1, 0, 255, 1, 0, 0, End of Program - Credits
+sprite, 1007, 101, 5, 375, 68, 70, 1, 0, 255, 1, 0, 0, Left pipe
+sprite, 1008, 101, 73, 375, 68, 70, 1, 0, 255, 1, 0, 0, Right pipe
+sprite, 1009, 102, 0, 0, 392, 158, 1, 0, 255, 1, 0, 0, Large cloud
+sprite, 1010, 102, 0, 166, 225, 144, 1, 0, 255, 1, 0, 0, Small cloud
+sprite, 1011, 103, 0, 0, 1024, 96, 1, 0, 255, 1, 0, 0, Top Menu Bar
+sprite, 1012, 103, 3, 102, 103, 248, 1, 0, 255, 1, 0, 0, Left arrow
+sprite, 1013, 103, 104, 102, 103, 248, 1, 0, 255, 1, 0, 0, Right arroW
+sprite, 1014, 103, 220, 100, 168, 595, 1, 0, 255, 1, 0, 0, Dropdown Menu
+sprite, 1015, 104, 0, 0, 1024, 768, 1, 0, 255, 1, 0, 0, Entire PAG graphic
+
+
+  

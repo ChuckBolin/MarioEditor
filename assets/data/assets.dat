@@ -1,0 +1,14 @@
+texture, 0, Level1_Sprites_Blue.png, sprite sheet
+sprite, 0, 0, 4, 1, 144, 58, 1, 0, 255, 1, 1, 0, small hill
+sprite, 1, 0, 152, 4, 241, 108, 1, 0, 255, 1, 1, 0, big hill
+sprite, 2, 0, 4, 125, 48, 48, 1, 0, 255, 1, 1, 0, brick
+sprite, 3, 0, 57, 125, 48, 48, 1, 0, 255, 1, 1, 0, ground
+sprite, 4, 0, 111, 125, 48, 48, 1, 0, 255, 1, 1, 0, question mark
+sprite, 5, 0, 164, 125, 48, 48, 1, 0, 255, 1, 1, 0, block
+sprite, 6, 0, 3, 65, 98, 48, 1, 0, 255, 1, 1, 0, small bush
+sprite, 7, 0, 401, 1, 193, 48, 1, 0, 255, 1, 1, 0, big bush
+sprite, 8, 0, 605, 4, 99, 72, 1, 0, 255, 1, 1, 0, small cloud
+sprite, 9, 0, 403, 57, 195, 74, 1, 0, 255, 1, 1, 0, big cloud
+sprite, 10, 0, 716, 3, 97, 98, 1, 0, 255, 1, 1, 0, small pipe
+sprite, 11, 0, 820, 3, 91, 147, 1, 0, 255, 1, 1, 0, medium pipe
+sprite, 12, 0, 919, 3, 98, 193, 1, 0, 255, 1, 1, 0, big pipe

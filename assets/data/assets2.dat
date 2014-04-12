@@ -1,0 +1,22 @@
+//assets.dat - Mario PAG, GC10
+//Purpose: defines assets for game
+
+//graphicfile, file ID, description
+graphicfile, 0, test.png,   Test file
+
+//Sprite definition
+//sprite, sprite ID, file ID, left, top, width, height, scale, angle, alpha, max frames, starting frames, time, description
+//*************************************************************************************************************************
+sprite, 0, 0, 59, 126, 48, 48, 1, 0, 255, 1, 0, 0, Ground
+sprite, 1, 0, 3, 3, 144, 54, 1, 0, 255, 1, 0, 0, Small Hill
+sprite, 2, 0, 153, 3, 240, 108, 1, 0, 255, 1, 0, 0, Large Hill
+sprite, 3, 0, 5, 66, 95, 49, 1, 0, 255, 1, 0, 0, Bush
+sprite, 4, 0, 6, 126, 48, 48, 1, 0, 255, 1, 0, 0, Brick
+sprite, 5, 0, 111, 125, 48, 48, 1, 0, 255, 1, 0, 0, Question mark
+sprite, 6, 0, 165, 127, 48, 48, 1, 0, 255, 1, 0, 0, Block
+sprite, 7, 0, 717, 4, 96, 96, 1, 0, 255, 1, 0, 0, Pipe1
+sprite, 8, 0, 821, 4, 89, 147, 1, 0, 255, 1, 0, 0, Pipe2
+sprite, 9, 0, 920, 4, 95, 192, 1, 0, 255, 1, 0, 0, Pipe3
+
+
+

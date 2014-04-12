@@ -1,0 +1,45 @@
+//Cindy and the Cookie Stealing Ogre
+//config.txt - Written by Chuck Bolin
+//describes certain behavior regarding game
+
+//window and screen information
+screen_left = 0
+screen_top = 0
+screen_width = 1024
+screen_height = 768
+
+full_screen = 0
+
+//display debug info
+display_debug_info = 1
+
+//sound controls
+play_music = 0
+
+//sky background color
+sky_red = 120
+sky_green = 120
+sky_blue = 120
+
+//fog information
+fog = 1
+fog_red = 120
+fog_green = 120
+fog_blue = 120
+fog_start = 35.0
+fog_end = 45.0
+
+//render stuff
+render_ground = 1
+render_skybox = 0
+render_level = 1
+
+
+
+
+
+
+
+
+
+
